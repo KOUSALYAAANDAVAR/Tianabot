@@ -3,9 +3,9 @@ import time
 import re
 from sys import argv
 from typing import Optional
-import Tianabot.modules.sql.users_sql as sql
+import ＴＨＥܔＳＨＥＩＬＤ ★.modules.sql.users_sql as sql
 
-from Tianabot import (
+from ＴＨＥܔＳＨＥＩＬＤ ★ import (
     ALLOW_EXCL,
     CERT_PATH,
     DONATION_LINK,
@@ -33,9 +33,9 @@ from Tianabot import (
 
 # needed to dynamically load modules
 # NOTE: Module order is not guaranteed, specify that in the config file!
-from Tianabot.modules import ALL_MODULES
-from Tianabot.modules.helper_funcs.chat_status import is_user_admin
-from Tianabot.modules.helper_funcs.misc import paginate_modules
+from ＴＨＥܔＳＨＥＩＬＤ ★.modules import ALL_MODULES
+from ＴＨＥܔＳＨＥＩＬＤ ★.modules.helper_funcs.chat_status import is_user_admin
+from ＴＨＥܔＳＨＥＩＬＤ ★.modules.helper_funcs.misc import paginate_modules
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, ParseMode, Update
 from telegram.error import (
     BadRequest,
