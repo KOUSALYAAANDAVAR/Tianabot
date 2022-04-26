@@ -1,5 +1,5 @@
 from envparse import env
-from Tianabot import LOGGER
+from ＴＨＥܔＳＨＥＩＬＤ ★ import LOGGER
 
 DEFAULTS = {
     "LOAD_MODULES": True,
